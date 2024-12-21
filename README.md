@@ -1,6 +1,6 @@
 # ChCore
 
-This is the repository of ChCore labs in SE315, 2022 Spring.
+This is the repository of ChCore labs in SE315, 2022 Spring, SJTU.
 
 ## Build
 
